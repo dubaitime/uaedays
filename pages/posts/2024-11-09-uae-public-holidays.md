@@ -1,11 +1,9 @@
 ---
 title: Essential Public Holidays in the Emirates
-layout: post
-author: uaetodays
-categories: 
-- Holidays
-image: public/images/Public Holidays in UAE.jpg
-featured: false
+date: 2024/11/10
+description: Essential Public Holidays in the Emirates
+tag: all about uae
+author: You
 ---
 
 Hey there! Let's talk about [public holidays](https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays) in the UAE - they're way more than just days off work. These celebrations are when the whole country comes alive to honor its amazing culture, religious traditions, and big achievements. Whether you're calling the UAE home or just visiting, knowing when these holidays happen will help you join in the fun (or plan around the festivities). Let me break it down for you!

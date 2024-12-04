@@ -1,5 +1,5 @@
 ---
-title: Prize for West Avenue Company: Scam or Legit?
+title: Prize for West Avenue Company, Scam or Legit?
 date: 2024/11/20
 description: From the experiences posted on Reddit, those who laid claim to West Avenue Immigration Services were promised various gifts
 tag: all about uae

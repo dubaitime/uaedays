@@ -11,7 +11,7 @@ Hey there! Let's talk about [public holidays](https://u.ae/en/information-and-se
 ## 1. New Year’s Day – January 1
 Sure, everyone knows about January 1st! While Dubai goes all out with mind-blowing fireworks on New Year's Eve, the actual holiday is pretty chill. Most places close up shop, giving everyone a chance to sleep in, hang with family, or just recover from the previous night's celebrations!
 
-![uae holidays](/images/Public Holidays in UAE.jpg)
+![uae holidays](/images/Public%20Holidays%20in%20UAE.jpg)
 
 ## 2. Eid Al Fitr – Celebrating the End of Ramadan (4 days)
 This is the big one, folks! Eid Al Fitr marks the end of Ramadan, and trust me, it's quite the celebration. Think of it as the biggest family reunion mixed with the best feast you can imagine. The malls get packed, restaurants are buzzing, and there's this amazing festive energy everywhere you go. Quick heads up - the exact dates bounce around a bit since they depend on moon sightings (usually landing somewhere in April or May). But don't worry - you'll get four whole days off, whether you work in the public or private sector!

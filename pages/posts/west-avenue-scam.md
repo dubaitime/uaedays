@@ -34,7 +34,7 @@ An analysis of the situation reveals several red flags:
    Offering extravagant prizes such as free cruise dinners, movie tickets, hotel accommodations, and event discount vouchers with no strings attached is highly unusual. Typically, such offers involve hidden fees or require participation in a program, making the West Avenue offer dubious.  
 
 3. **Suspicious Locations**  
-   Reports from users, such as one on Reddit, describe attending a similar prize ceremony at Ibn Battuta Mall, only to later discover the involvement of West Avenue. This raises questions about the company’s operations and motives.  
+   Reports from users, such as one on Reddit, describe attending a similar prize ceremony at Ibn Battuta Mall, only to later discover the involvement of West Avenue. This raises questions about the company's operations and motives.  
 
 ## Conclusion
 

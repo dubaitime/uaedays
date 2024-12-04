@@ -12,7 +12,7 @@ The Fazaa card is an official membership of the UAE Ministry of Interior for emp
 
 ## Requirements and Eligibility
 
-![Fazaa Company Code](/images/fazaa-company-code.jpg)
+![fazaa-company-code](/images/fazaa-company-code.jpg)
 
 The Fazaa card is primarily available to employees of the Ministry of Interior, government, and semi-government organizations, as well as frontline workers. Employees in the private sector who are locals are also eligible to apply. 
 

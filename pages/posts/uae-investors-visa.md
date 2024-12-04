@@ -10,7 +10,7 @@ Ready to join the UAE's bustling business scene? You're not alone! Whether you'r
 
 ## Types of Investor Visas in the UAE
 ### A. Green Visa for Investors
-![UAE investor visa](/images/UAE Investors Visa.jpg)
+![UAE investor visa](/images/UAE%20Investors%20Visa.jpg)
 
 Think of the [Green Visa](https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa-for-doing-business-in-the-uae) as your ticket to freedom in the UAE business world. It's perfect if you want to run your own show without needing a sponsor hanging over your head. The best part? It's good for five years and renewable!
 

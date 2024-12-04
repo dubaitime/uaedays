@@ -12,6 +12,8 @@ The prevalence of fraudsters on the internet has left many seeking genuine oppor
 
 ## Background
 
+![west-ave-dubai-scam](/images/west-ave-scam.jpg)
+
 According to posts on Reddit, individuals who interacted with West Avenue Immigration Services were promised various gifts, including:
 
 - A cruise dinner  

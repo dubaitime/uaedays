@@ -49,7 +49,7 @@ Users can stay updated and reach support through multiple social media platforms
 
 For more information about Deem Finance’s offerings or to access customer service, you can visit their official website: [Deem Finance](https://www.deemfinance.com)
 
-See also: [How to Close Mashreq Neo Account](https://uaedays.vercel.app/posts/how-to-close-mashreq-neo-account)
+See also: [How to Check Your NBAD Balance](https://uaetiming.com/quick-guide-view-your-nbad-bank-balance/)
 
 ## Reputation and Customer Feedback
 
